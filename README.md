@@ -96,7 +96,7 @@ At the moment, the size of the text and the width of the window are somewhat har
 
 A next logical step in expanding the capabilities will be to allow for changing the fonts, the width of the window, wtc.
 
-The decision was made to keep things simple for this initial release.  Better to get seomthing basic that works well shipped than something fancy and not quiite operational that never ships.
+The decision was made to keep things simple for this initial release.  Better to get something basic that works well shipped than something fancy and not quite operational that never ships.
 
 ## Hungry for more?
 
